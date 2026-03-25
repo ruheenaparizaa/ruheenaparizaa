@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Ruheena 👋  
 
-<!--
-**ruheenaparizaa/ruheenaparizaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Currently learning SQL, Python & Power BI  
+🛠️ Building projects to improve data analysis skills  
 
-Here are some ideas to get you started:
+🌱 Learning:
+SQL | Python | Power BI | Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:
+- SQL practice queries  
+- Beginner Power BI dashboards  
+- Data cleaning exercises  
+
