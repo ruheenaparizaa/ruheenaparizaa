@@ -1,13 +1,10 @@
-Hi, I'm Ruheena 👋  
+HELLO,
+I'm Ruheena 👋  
 
-📊 Currently learning SQL, Python & Power BI  
+📊 Currently learning SQL, Python ,Machine Learning & Power BI  
 🛠️ Building projects to improve data analysis skills  
 
 🌱 Learning:
-SQL | Python | Power BI | Excel  
+SQL | Python | Machine Learning | Power BI | Excel  
 
-📌 Projects:
-- SQL practice queries  
-- Beginner Power BI dashboards  
-- Data cleaning exercises  
 
